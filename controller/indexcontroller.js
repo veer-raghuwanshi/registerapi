@@ -12,7 +12,7 @@
               role:"user",
               status:0,
               info:Date(),
-            profileimage:"http://localhost:3000/"+imgpath
+            profileimage:"https://registerapi-2nty.onrender.com/"+imgpath
               
         
             }
